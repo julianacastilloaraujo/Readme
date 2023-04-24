@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/jlianacastillo/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlianacastillo" height="28px" width="28px" />
   </a>
-    <a href="https://www.linkedin.com/in/jlianacastillo/" target="blank">
+    <a href="https://www.facebook.com/jliannacastillo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jlianacastillo" height="28px" width="28px" />
   </a>
 </p>
