@@ -1,7 +1,8 @@
 
 
 <p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy @jlianacastillo 👩‍💻</h3>
+   <h1 align="center">¡Hey there 🙌🏻! Soy @jlianacastillo 👩‍💻</h1>
+   <h2 align="center">Google Women Techmakers Ambassador with @wtmbogota • @wtm_mx | Github Campus Expert | Co-Founder • Author @catedramatilda • @unisanmateo • @uniamazonia | Speaker in @pionerasdev @technolatinas @macaotech | #DareToBe💻</h2>
 </p>
 
 <!--
