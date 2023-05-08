@@ -6,9 +6,6 @@
 
 <p align="center">Soy <strong> Juliana </strong> y he impartido charlas en diversos países con el objetivo de fomentar el lema <strong> #WomenInTech </strong> aportando en temas relacionados con la tecnología, el aprendizaje digital y la ciencia de datos<br />Let's connect here! 🙌🏻</p>
 <p align="center">
-  <a href="https://instagram.com/jlianacastillo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jlianacastillo" height="28px" width="28px" />
-  </a>
   <a href="https://twitter.com/jlianacastillo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlianacastillo" height="28px" width="28px" />
   </a>
