@@ -17,4 +17,5 @@
   </a>
 </p>
 
+- 📝 See my <a href="https://drive.google.com/file/d/1IvOEkP0t9tjdoO7XjUiM0O1oZopA526n/view?usp=share_link">Curriculum Vitae</a> to get more info.
 
