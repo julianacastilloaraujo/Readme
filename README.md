@@ -16,6 +16,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jlianacastillo" height="28px" width="28px" />
   </a>
 </p>
-
+<p align="center">
 - 📝 See my <a href="https://drive.google.com/file/d/1IvOEkP0t9tjdoO7XjUiM0O1oZopA526n/view?usp=share_link">Curriculum Vitae</a> to get more info.
+</p>
 
