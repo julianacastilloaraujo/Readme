@@ -3,7 +3,9 @@
    <h1 align="center">Soy @jlianacastillo 👩‍💻</h1>
    <h2 align="center">Google Women Techmakers Ambassador with @wtmbogota • @wtm_mx | Github Campus Expert | Co-Founder • Author @catedramatilda • @unisanmateo • @uniamazonia | Speaker in @pionerasdev @technolatinas @macaotech | #DareToBe</h2>
 </p>
-
+<p align="center">
+📝 See my <a href="https://drive.google.com/file/d/1IvOEkP0t9tjdoO7XjUiM0O1oZopA526n/view?usp=share_link">Curriculum Vitae</a> to get more info.
+</p>
 <p align="center">Soy <strong> Juliana </strong> y he impartido charlas en diversos países con el objetivo de fomentar el lema <strong> #WomenInTech </strong> aportando en temas relacionados con la tecnología, el aprendizaje digital y la ciencia de datos<br />Let's connect here! 🙌🏻</p>
 <p align="center">
   <a href="https://twitter.com/jlianacastillo" target="blank">
@@ -16,7 +18,5 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jlianacastillo" height="28px" width="28px" />
   </a>
 </p>
-<p align="center">
-📝 See my <a href="https://drive.google.com/file/d/1IvOEkP0t9tjdoO7XjUiM0O1oZopA526n/view?usp=share_link">Curriculum Vitae</a> to get more info.
-</p>
+
 
