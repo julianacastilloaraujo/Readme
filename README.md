@@ -1,7 +1,7 @@
 <p align="center" width="300">
-<img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/246640486-6edebb1c-6a9e-474c-8b65-ef387ebccdf6.png" />
+<img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/247816573-6fa661d4-e927-4273-97a3-cad29c75252c.png" />
    
-   <h1 align="center">Hola Bienvenido a mi perfil de GitHub 👩‍💻</h1>
+   <h1 align="center"> 💜 Bienvenido a mi perfil de GitHub 💜</h1>
    <h2 align="center">Mi nombre es Juliana Castillo (@jlianacastillo)</h2>
 
    <p align="center"> He impartido charlas en diversos países con el objetivo de fomentar el lema <strong> #WomenInTech </strong> aportando en temas relacionados con la tecnología, el aprendizaje digital y la ciencia de datos <br> </p>
@@ -26,5 +26,8 @@
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=jlianacastillo.jlianacastillo" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlianacastillo&show_icons=true&theme=shades-of-purple" alt="Estadísticas de GitHub de Juliana Castillo">
+</p>
 
 
