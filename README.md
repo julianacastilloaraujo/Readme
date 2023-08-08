@@ -16,9 +16,3 @@
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=jlianacastillo.jlianacastillo" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlianacastillo&show_icons=true&theme=shades-of-purple" alt="Estadísticas de GitHub de Juliana Castillo">
-</p>
-
-
