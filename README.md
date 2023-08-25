@@ -1,7 +1,7 @@
 <p align="center" width="300">
 <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/263136025-5585f2a4-4d9f-4be5-bf6d-a3dc2255eac7.png" />
 
-   <h1 align="center">Hello! 👋 I'm Juliana</h1>
+   <h1 align="center">Hello there! I'm Juliana 🪁</h1>
    
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=jlianacastillo.jlianacastillo" />
@@ -10,7 +10,7 @@
    <p align="center"> A fervent advocate for gender diversity in tech and a passionate enthusiast of engineering and data science. As a Google Women Techmakers Ambassador at WTM Bogotá, I'm dedicated to empowering women in technology. 🌟
  </p>
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@jlianacastillo&logo=linkedin&style=flat&color=blue)](https:https://www.linkedin.com/in/jlianacastillo/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@jlianacastillo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/jlianacastillo/)
 [![Twitter](https://img.shields.io/static/v1.svg?label=twitter&message=@jlianacastillo&logo=twitter&style=flat&color=blue)](https://twitter.com/jlianacastillo)
 [![Instagram](https://img.shields.io/static/v1.svg?label=instagram&message=@jlianacastillo&logo=instagram&style=flat&color=blue)](https://www.instagram.com/jlianacastillo/)
 [![Tiktok](https://img.shields.io/static/v1.svg?label=tiktok&message=@jlianacastillo&logo=tiktok&style=flat&color=blue)](https://www.tiktok.com/@jlianacastillo)
