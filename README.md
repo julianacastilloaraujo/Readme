@@ -6,11 +6,14 @@
 </p>
    <p align="center"> Hello! 👋 I'm Juliana, a fervent advocate for gender diversity in tech and a passionate enthusiast of engineering and data science. As a Google Women Techmakers Ambassador at WTM Bogotá, I'm dedicated to empowering women in technology. 🌟
  </p>
+ 
+ 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@jlianacastillo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/jlianacastillo/)
 [![Twitter](https://img.shields.io/static/v1.svg?label=twitter&message=@jlianacastillo&logo=twitter&style=flat&color=blue)](https://twitter.com/jlianacastillo)
 [![Instagram](https://img.shields.io/static/v1.svg?label=instagram&message=@jlianacastillo&logo=instagram&style=flat&color=blue)](https://www.instagram.com/jlianacastillo/)
 [![Tiktok](https://img.shields.io/static/v1.svg?label=tiktok&message=@jlianacastillo&logo=tiktok&style=flat&color=blue)](https://www.tiktok.com/@jlianacastillo)
 [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@jliannacastillo&logo=facebook&style=flat&color=blue)](https://www.facebook.com/jliannacastillo)
+
  <p align="center">I had the honor of speaking at Google's offices on International Women's Day '23, representing WTM Mexico as a Github Campus Expert Student, fostering collaboration and tech community growth. 💬
  </p>
 <h3 align="center"> Speaker in Tech🎙️ | Participation in International Tech Community<br>(Ctrl+Alt+Supr 🇵🇪) - (WTM México 🇲🇽) - (MacaoTech 🇭🇳) - (Technolatinas 🇲🇽)- (PionerasDev 🇨🇴)</h3>
