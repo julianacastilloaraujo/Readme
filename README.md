@@ -18,11 +18,15 @@
 <!-- Mi Instagram -->
 <a href="https://www.instagram.com/jlianacastillo/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+<!-- Mi Facebook -->
+<a href="https://www.facebook.com/jliannacastillo/" target="_blank"> 
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 <br>
 
 
-<h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br></h2>
+<h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio
 <!-- Speaker -->
+<h3> Ctrl+Alt+Sup 🇵🇪 - WTM México 🇲🇽 -  MacaoTech 🇭🇳 - Technolatinas 🇲🇽 - PionerasDev 🇨🇴</h3>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="22%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
 </a>
