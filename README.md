@@ -1,6 +1,5 @@
 <div align="center">
-   <h1>W💙E❤️L💛C💙O💚M❤️E</h1>
-
+   
    
 <h2 align="center"> Speaker in Tech🎙️ | Participation in International Tech Community<br>(Ctrl+Alt+Supr 🇵🇪) - (WTM México 🇲🇽) - (MacaoTech 🇭🇳) - (Technolatinas 🇲🇽)- (PionerasDev 🇨🇴)</h2>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
