@@ -5,9 +5,11 @@
 <h1 align="center">¡Hey 👋! Soy Juliana Castillo 👩‍💻</h1>
 <p align="center">Soy <strong>Data Analytics en</strong> student <br> Jump! Educacion (Codear Futura)💜 & <br> Platzi (Data Science e Inteligencia Artificial)💚<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
 
+<a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 <a href="https://twitter.com/jlianacastillo" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit"
-   </a>
+
 <br>
 
 <h2 align="center"> Speaker in Tech🎙️ | Participation in International Tech Community<br>(Ctrl+Alt+Supr 🇵🇪) - (WTM México 🇲🇽) - (MacaoTech 🇭🇳) - (Technolatinas 🇲🇽)- (PionerasDev 🇨🇴)</h2>
