@@ -1,10 +1,11 @@
 <div align="center">
    <p align="center" width="300">
+      
 <!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
 <img align="center" width="250" src="https://user-images.githubusercontent.com/96964513/268529248-56b1c141-5e86-49a7-891b-b724e24aeaf3.jpg" />
 
 <h1 align="center style="font-size: 21px;">¡Hey👋! Soy Juliana Castillo 👩‍💻</h1>
-<p align="center">Soy <strong>Data Analytics en</strong> student <br> Jump! Educacion (Codear Futura)💜 & <br> Platzi (Data Science e Inteligencia Artificial)💚<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
+<p align="center">Soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura : Data Analytics) <br> Platzi (Escuela : Data Science e Inteligencia Artificial)<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
@@ -24,9 +25,10 @@
 <br>
 
 
-<h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio
+<h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> 
+<p> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio</p>
 <!-- Speaker -->
-<h3> Ctrl+Alt+Sup 🇵🇪 - WTM México 🇲🇽 -  MacaoTech 🇭🇳 - Technolatinas 🇲🇽 - PionerasDev 🇨🇴</h3>
+<p > Ctrl+Alt+Sup <strong>(May,23) 🇵🇪</strong> - WTM México <strong>(Abr,23) 🇲🇽</strong> - MacaoTech <strong>(Oct, 22) 🇭🇳</strong> - Technolatinas <strong>(May,22)🇲🇽</strong> - PionerasDev <strong>(Mar,22)🇨🇴</strong></p>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="22%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
 </a>
