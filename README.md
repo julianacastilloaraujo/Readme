@@ -1,11 +1,8 @@
 <div align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/96964513/263136025-5585f2a4-4d9f-4be5-bf6d-a3dc2255eac7.png" />
-  <h1>W-E-L-C-O-M-E</h1>
+   <h1>W💙E❤️L💛C💙O💚M❤️E</h1>
+
    
-   <p align="center"> Hello! 👋 I'm Juliana, a fervent advocate for gender diversity in tech and a passionate enthusiast of engineering and data science. As a Google Women Techmakers Ambassador at WTM Bogotá, I'm dedicated to empowering women in technology. 🌟
- </p>
-     
-<h3 align="center"> Speaker in Tech🎙️ | Participation in International Tech Community<br>(Ctrl+Alt+Supr 🇵🇪) - (WTM México 🇲🇽) - (MacaoTech 🇭🇳) - (Technolatinas 🇲🇽)- (PionerasDev 🇨🇴)</h3>
+<h2 align="center"> Speaker in Tech🎙️ | Participation in International Tech Community<br>(Ctrl+Alt+Supr 🇵🇪) - (WTM México 🇲🇽) - (MacaoTech 🇭🇳) - (Technolatinas 🇲🇽)- (PionerasDev 🇨🇴)</h2>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="22%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
 </a>
