@@ -1,7 +1,7 @@
 <div align="center">
    
-   <p align="center" width="400">
-<img align="center" width="400" src="https://user-images.githubusercontent.com/96964513/268529248-56b1c141-5e86-49a7-891b-b724e24aeaf3.jpg" />
+   <p align="center" width="300">
+<img align="center" width="300" src="https://user-images.githubusercontent.com/96964513/268529248-56b1c141-5e86-49a7-891b-b724e24aeaf3.jpg" />
       
 <h1 align="center">¡Hey 👋! Soy Juliana Castillo 👩‍💻</h1>
 <p align="center">Soy <strong>Data Analytics en</strong> student <br> Jump! Educacion (Codear Futura)💜 & <br> Platzi (Data Science e Inteligencia Artificial)💚<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
