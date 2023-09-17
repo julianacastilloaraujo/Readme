@@ -28,7 +28,7 @@
 <h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> 
 <p> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio</p>
 <!-- Speaker -->
-<p > Ctrl+Alt+Sup <strong>(May,23) 🇵🇪</strong> - WTM México <strong>(Abr,23) 🇲🇽</strong> - MacaoTech <strong>(Oct, 22) 🇭🇳</strong> - Technolatinas <strong>(May,22)🇲🇽</strong> - PionerasDev <strong>(Mar,22)🇨🇴</strong></p>
+<p > Ctrl+Alt+Sup <strong>(May,23) 🇵🇪</strong>·WTM México <strong>(Abr,23) 🇲🇽</strong>·MacaoTech <strong>(Oct, 22) 🇭🇳</strong>·Technolatinas <strong>(May,22)🇲🇽</strong>·PionerasDev <strong>(Mar,22)🇨🇴</strong></p>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="22%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
 </a>
