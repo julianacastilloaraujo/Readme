@@ -1,16 +1,14 @@
 <div align="center">
-   
    <p align="center" width="300">
-<img align="center" width="300" src="https://user-images.githubusercontent.com/96964513/268529248-56b1c141-5e86-49a7-891b-b724e24aeaf3.jpg" />
+<img align="center" width="250" src="https://user-images.githubusercontent.com/96964513/268529248-56b1c141-5e86-49a7-891b-b724e24aeaf3.jpg" />
       
 <h1 align="center">¡Hey 👋! Soy Juliana Castillo 👩‍💻</h1>
 <p align="center">Soy <strong>Data Analytics en</strong> student <br> Jump! Educacion (Codear Futura)💜 & <br> Platzi (Data Science e Inteligencia Artificial)💚<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@jlianacastillo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/jlianacastillo/)
-[![Twitter](https://img.shields.io/static/v1.svg?label=twitter&message=@jlianacastillo&logo=twitter&style=flat&color=blue)](https://twitter.com/jlianacastillo)
-[![Instagram](https://img.shields.io/static/v1.svg?label=instagram&message=@jlianacastillo&logo=instagram&style=flat&color=blue)](https://www.instagram.com/jlianacastillo/)
-[![Tiktok](https://img.shields.io/static/v1.svg?label=tiktok&message=@jlianacastillo&logo=tiktok&style=flat&color=blue)](https://www.tiktok.com/@jlianacastillo)
-[![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@jliannacastillo&logo=facebook&style=flat&color=blue)](https://www.facebook.com/jliannacastillo)
+<a href="https://twitter.com/jlianacastillo" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit"
+   </a>
+<br>
 
 <h2 align="center"> Speaker in Tech🎙️ | Participation in International Tech Community<br>(Ctrl+Alt+Supr 🇵🇪) - (WTM México 🇲🇽) - (MacaoTech 🇭🇳) - (Technolatinas 🇲🇽)- (PionerasDev 🇨🇴)</h2>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
