@@ -21,8 +21,8 @@
 <br>
 
 
-<h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br>(Ctrl+Alt+Supr 🇵🇪)-(WTM México 🇲🇽)-(MacaoTech 🇭🇳)-(Technolatinas 🇲🇽)-(PionerasDev 🇨🇴)
-</h2>
+<h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br></h2>
+<!-- Speaker -->
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="22%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
 </a>
