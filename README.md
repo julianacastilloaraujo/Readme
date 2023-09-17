@@ -4,19 +4,7 @@
    
    <p align="center"> Hello! 👋 I'm Juliana, a fervent advocate for gender diversity in tech and a passionate enthusiast of engineering and data science. As a Google Women Techmakers Ambassador at WTM Bogotá, I'm dedicated to empowering women in technology. 🌟
  </p>
- 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=jlianacastillo&theme=ocean-gradient" alt="GitHub Streak">
-  </a>
-</div>
-
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@jlianacastillo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/jlianacastillo/)
-[![Twitter](https://img.shields.io/static/v1.svg?label=twitter&message=@jlianacastillo&logo=twitter&style=flat&color=blue)](https://twitter.com/jlianacastillo)
-[![Instagram](https://img.shields.io/static/v1.svg?label=instagram&message=@jlianacastillo&logo=instagram&style=flat&color=blue)](https://www.instagram.com/jlianacastillo/)
-[![Tiktok](https://img.shields.io/static/v1.svg?label=tiktok&message=@jlianacastillo&logo=tiktok&style=flat&color=blue)](https://www.tiktok.com/@jlianacastillo)
-[![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@jliannacastillo&logo=facebook&style=flat&color=blue)](https://www.facebook.com/jliannacastillo)
-
-    
+     
 <h3 align="center"> Speaker in Tech🎙️ | Participation in International Tech Community<br>(Ctrl+Alt+Supr 🇵🇪) - (WTM México 🇲🇽) - (MacaoTech 🇭🇳) - (Technolatinas 🇲🇽)- (PionerasDev 🇨🇴)</h3>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="22%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
@@ -33,6 +21,4 @@
 <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
   <img align="center" width="13%" height="40%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
 </a>
-
-
 
