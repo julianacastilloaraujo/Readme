@@ -1,8 +1,7 @@
 <div align="center">
 <!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
 <img align="center" width="550" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
-	
-<h1 text-align: center;">¡Conecta conmigo aquí! 👇</h1>
+<h1 style="text-align: center;">¡Conecta conmigo aquí! 👇</h1>
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
@@ -24,7 +23,8 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 <br>
 <p></p>
-<p align="center">Soy <strong>Juliana Castillo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong></strong></a>p>
+	
+<p align="center">Soy <strong>Juliana Castillo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong></strong></a>
 <br>
 <h2>🌟 Mis Skills 🌟</h2> 
 <strong>Python | R | SQL | Google Colab | Datatype | DAX | EDA | ETL | PowerBI | Storytelling</strong>
