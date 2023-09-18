@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
-<img align="center" width="700" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
+<img align="center" width="600" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
 
-<h1 style="font-size: 36px; color: #0077B5; text-align: center;">¡Hey👋! ¡Hey👋! ¡Hey👋!</h1>
+<h1 text-align: center;">¡Bienvenido!</h1>
 
 <p align="center">Soy <strong>Juliana Castillo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong>
 
