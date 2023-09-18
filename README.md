@@ -1,8 +1,8 @@
 <div align="center">
 <!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
-<img align="center" width="600" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
+<img align="center" width="550" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
 	
-<h1 text-align: center;">¡Bienvenido!</h1>
+<h1 text-align: center;">Welcome to my Github 🐙 profile!</h1>
 	
 <p align="center">Soy <strong>Juliana Castillo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong>
 	
@@ -48,4 +48,3 @@
 <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
   <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
 </a>
-
