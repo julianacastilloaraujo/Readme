@@ -1,14 +1,12 @@
 <div align="center">
-
 <!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
-<img align="center" width="600" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
-
+<img align="center" width="800" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
+	
 <h1 text-align: center;">¡Bienvenido!</h1>
-
+	
 <p align="center">Soy <strong>Juliana Castillo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong>
-
+	
 <p>¡Conecta conmigo aquí 👇!</strong></p>
-
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -24,15 +22,17 @@
 <!-- Mi Facebook -->
 <a href="https://www.facebook.com/jliannacastillo/" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+<!-- Mi Discord -->
+<a href="https://discordapp.com/users/1032143279879364650" target="_blank"> 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 <br>
-	
 <h2>🌟 Mis Skills 🌟</h2> 
 <strong>Python | R | SQL | Google Colab | Datatype | DAX | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
+	
 <h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> 
 <p> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio</p>
 <!-- Speaker -->
-<p > Ctrl+Alt+Sup <strong>(May,23) 🇵🇪</strong>·WTM México <strong>(Abr,23) 🇲🇽</strong>·MacaoTech <strong>(Oct, 22) 🇭🇳</strong>·Technolatinas <strong>(May,22)🇲🇽</strong>·PionerasDev <strong>(Mar,22)🇨🇴</strong></p>
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="22%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
 </a>
