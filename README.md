@@ -1,10 +1,13 @@
 <div align="center">
-   <p align="center" width="300">
-<!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
-<img align="center" width="250" src="https://user-images.githubusercontent.com/96964513/268544145-909df583-e3fa-43bb-b38b-baef05f35bec.png" />
 
-<h1 align="center style="font-size: 21px;">¡Hey👋! Soy Juliana Castillo 👩‍💻</h1>
-<p align="center">Soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
+<!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
+<img align="center" width="800" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
+
+<h1>¡Hey👋! Soy Juliana Castillo 👩‍💻</h1>
+
+<p align="center">Soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<br /> <strong>
+
+¡Conecta conmigo aquí 👇!</strong></p>
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
@@ -22,7 +25,10 @@
 <a href="https://www.facebook.com/jliannacastillo/" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 <br>
-
+	
+<h2>🌟 Mis Skills 🌟</h2> 
+<strong>Python | R | SQL | Google Colab | Datatype | DAX | EDA | ETL | PowerBI | Storytelling</strong>
+<br>
 <h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> 
 <p> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio</p>
 <!-- Speaker -->
@@ -42,5 +48,3 @@
 <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
   <img align="center" width="13%" height="40%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
 </a>
-
-
