@@ -5,7 +5,7 @@
 <img align="center" width="250" src="https://user-images.githubusercontent.com/96964513/268529248-56b1c141-5e86-49a7-891b-b724e24aeaf3.jpg" />
 
 <h1 align="center style="font-size: 21px;">¡Hey👋! Soy Juliana Castillo 👩‍💻</h1>
-<p align="center">Soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura : Data Analytics) <br> Platzi (Escuela : Data Science e Inteligencia Artificial)<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
+<p align="center">Soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics</strong>) <br> Platzi (Escuela: <strong>Data Science</strong> e Inteligencia Artificial)<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
@@ -23,7 +23,6 @@
 <a href="https://www.facebook.com/jliannacastillo/" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 <br>
-
 
 <h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> 
 <p> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio</p>
