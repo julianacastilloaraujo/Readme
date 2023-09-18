@@ -2,10 +2,10 @@
    <p align="center" width="300">
       
 <!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
-<img align="center" width="250" src="https://user-images.githubusercontent.com/96964513/268542378-d0498944-9c69-4d3e-b343-16125ea042a5.jpg" />
+<img align="center" width="300" src="https://user-images.githubusercontent.com/96964513/268542924-41627d7e-0ece-4921-a615-ad23fa7b1f13.jpg" />
 
 <h1 align="center style="font-size: 21px;">¡Hey👋! Soy Juliana Castillo 👩‍💻</h1>
-<p align="center">Soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics</strong>) <br> Platzi (Escuela: <strong>Data Science</strong> e Inteligencia Artificial)<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
+<p align="center">Soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<br /> <strong>¡Conecta conmigo aquí 👇!</strong></p>
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
