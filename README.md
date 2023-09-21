@@ -1,7 +1,4 @@
 <div align="center">
-<!-- Añado imagen de presentacion por url de Issue "GitHub Profile" -->
-<img align="center" width="550" src="https://user-images.githubusercontent.com/96964513/268546697-1bbe1337-659e-4ed5-99f4-41908b34d6f5.png" />
-	
 <h1 text-align: center;">¡Conecta conmigo aquí! 👇</h1>
 
 <!-- Mi LinkedIn -->
