@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 <br>
 <h2>About me 👩‍💻</h2> 
-<p align="center">Hi there! 👋🏻 <br>Soy <strong>Juliana Castillo</strong><br><strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong></strong></a>p>
+<p align="center">Hi there! 👋🏻 Soy <strong>Juliana Castillo</strong><br><strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong></strong></a>
 <br>
 <!-- Mis participaciones-->
 <div align="center">
