@@ -11,9 +11,7 @@
 <br>
 	
 <h2 align="center" style="font-size: 21px;">Tech Speaker 🎙️<br> </h2> 
-
 <div align="center">
-<p> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio</p>
 <!-- Speaker -->
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
@@ -30,10 +28,7 @@
 <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
   <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
 </a>
-
 <div align="center">
-<h1 text-align: center;">Let's connect 👩‍💻</h1>
-
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
