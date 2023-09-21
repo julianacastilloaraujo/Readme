@@ -1,6 +1,9 @@
 <!-- Mi foto -->
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" />
+   <p align="center">I'm Juliana Castillo 👩‍💻<br> I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
+<div align="center">
+<h1>Let's connect to drive equality and innovation in STEM! 🚀 #WomenInTech</h1> 
 <!-- Mis redes -->
 <div align="center">
 <!-- Mi LinkedIn -->
@@ -22,8 +25,9 @@
 <a href="https://discordapp.com/users/1032143279879364650" target="_blank"> 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 <br>
-<h2>About me 👩‍💻</h2> 
-<p align="center">Hi there! 👋🏻 Soy <strong>Juliana Castillo</strong><br><strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong></strong></a>
+<div align="center">
+<h2>Skills 📊</h2> 
+<strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
 <!-- Mis participaciones-->
 <div align="center">
@@ -43,8 +47,4 @@
 <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
   <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
 </a>
-<br>
-<div align="center">
-<h3>Skills 📊</h3> 
-<strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
