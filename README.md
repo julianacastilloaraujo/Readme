@@ -1,33 +1,6 @@
 <!-- Mi foto -->
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" />
-	
-<p align="center">Hi there! 👋🏻 <br>Soy <strong>Juliana Castillo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong></strong></a>p>
-<br>
-
-<div align="center">
-<h2>Skills 📊</h2> 
-<strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
-<br>
-	
-<h2 align="center" style="font-size: 21px;">Tech Speaker 🎙️<br> </h2> 
-<div align="center">
-<!-- Speaker -->
-<a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
-  <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
-</a>
-<a href="https://www.facebook.com/wtmmxoficial/photos/a.101459299555580/145886835112826" target="_blank">
-  <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263138142-f889c553-fdcb-47ab-b765-3c88e8d7d2e2.png" alt="WTM Mexico">
-</a>
-<a href="https://www.youtube.com/watch?v=fkYbnqTK0mM" target="_blank">
-  <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263139247-dc4d15cf-5ca3-48b3-ac49-621b60da738f.jpeg" alt="MacaoTech">
-</a>
-<a href="https://www.youtube.com/watch?v=85duutROeSA" target="_blank">
-  <img align="center" width="14%" height="18%" src="https://user-images.githubusercontent.com/96964513/263139813-850c7e6c-736e-4000-a130-d59e5a8e1b94.jpeg" alt="Technolatinas">
-</a>
-<a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
-  <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
-</a>
 <div align="center">
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
@@ -48,3 +21,27 @@
 <a href="https://discordapp.com/users/1032143279879364650" target="_blank"> 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 <br>
+<p align="center">Hi there! 👋🏻 <br>Soy <strong>Juliana Castillo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong></strong></a>p>
+<br>
+
+<div align="center">
+<h2>Skills 📊</h2> 
+<strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
+<br>
+<div align="center">
+<!-- Speaker -->
+<a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
+  <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
+</a>
+<a href="https://www.facebook.com/wtmmxoficial/photos/a.101459299555580/145886835112826" target="_blank">
+  <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263138142-f889c553-fdcb-47ab-b765-3c88e8d7d2e2.png" alt="WTM Mexico">
+</a>
+<a href="https://www.youtube.com/watch?v=fkYbnqTK0mM" target="_blank">
+  <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263139247-dc4d15cf-5ca3-48b3-ac49-621b60da738f.jpeg" alt="MacaoTech">
+</a>
+<a href="https://www.youtube.com/watch?v=85duutROeSA" target="_blank">
+  <img align="center" width="14%" height="18%" src="https://user-images.githubusercontent.com/96964513/263139813-850c7e6c-736e-4000-a130-d59e5a8e1b94.jpeg" alt="Technolatinas">
+</a>
+<a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
+  <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
+</a>
