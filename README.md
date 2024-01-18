@@ -1,7 +1,3 @@
-<!-- Mi foto -->
-<p align="center" width="300">
-   <img align="center" width="200" src="https://private-user-images.githubusercontent.com/96964513/297557285-060e2159-aa3e-4769-a903-6293c096d160.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MzgwMzIsIm5iZiI6MTcwNTUzNzczMiwicGF0aCI6Ii85Njk2NDUxMy8yOTc1NTcyODUtMDYwZTIxNTktYWEzZS00NzY5LWE5MDMtNjI5M2MwOTZkMTYwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE4VDAwMjg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzZjViMjE2NDczNTE5M2UyNDYzZDdkZjYyOTM5YWMwM2UzMmMzNmY1OTRjYTU5YTc3ZjAyZDQyNzgwM2YxMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NzM5SBA9JKT-BOml1yMXcpIBGHVws7bo8O7YMV9KhiI" />
-   <p align="center">I'm Juliana Castillo 👩‍💻<br> I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
 <div align="center">
 <p>Let's connect to drive equality and innovation in STEM! 🚀 <strong>#WomenInTech</strong></p> 
 <!-- Mis redes -->
@@ -47,4 +43,3 @@
 <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
   <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
 </a>
-<br>
