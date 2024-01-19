@@ -5,25 +5,26 @@
 <p align="center">Soy <strong>Juliana Castillo Araujo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong>
 	
 <p>¡Conecta conmigo aquí 👇!</strong></p>
+
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-<!-- Mi perfil en Platzi -->
-<a href="https://platzi.com/p/jlianacastillo/"target="_blank">
-<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"
-<!-- Mi Twitter -->
-<a href="https://twitter.com/jlianacastillo" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+
 <!-- Mi Instagram -->
-<a href="https://www.instagram.com/jlianacastillo/" target="_blank">
+<a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+	
+<!-- Mi Twitter -->
+<a href="https://twitter.com/jcastilloaraujo" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+	
+
 <!-- Mi Facebook -->
-<a href="https://www.facebook.com/jliannacastillo/" target="_blank"> 
+<a href="https://www.facebook.com/julianacastilloaraujo" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-<!-- Mi Discord -->
-<a href="https://discordapp.com/users/1032143279879364650" target="_blank"> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+	
 <br>
+
 <h2>🌟 Mis Skills 🌟</h2> 
 <strong>Python | R | SQL | Google Colab | Datatype | DAX | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
