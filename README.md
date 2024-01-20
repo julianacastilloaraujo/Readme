@@ -18,6 +18,9 @@
 <a href="https://twitter.com/jcastilloaraujo" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 	
+<!-- Mi perfil en Platzi -->
+<a href="https://platzi.com/p/julianacastilloaraujo/" target="_blank">
+<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"
 
 <!-- Mi Facebook -->
 <a href="https://www.facebook.com/julianacastilloaraujo" target="_blank"> 
@@ -31,6 +34,7 @@
 	
 <h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> 
 <p> He sido speaker y host en comunidades enfocadas a tecnologia participando en Podcast <br>IWD'23 en Oficinas de Google México, DataAnalytics Talk, CodeCamp, Panel Conversatorio</p>
+
 <!-- Speaker -->
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
