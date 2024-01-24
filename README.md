@@ -4,7 +4,7 @@
 	
 <p align="center">Soy <strong>Juliana Castillo Araujo</strong><br>Y actualmente soy <strong>Data Analytics </strong> en formación <br> Jump! Educacion (Codear Futura: <strong>Data Analytics📊</strong>) <br> Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong>
 	
-<p>¡Conecta conmigo aquí 👇!</strong></p>
+<p>Conecta conmigo aquí 👇</strong></p>
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
