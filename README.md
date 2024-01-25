@@ -2,11 +2,8 @@
 <!-- Mi foto -->
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" />
-<h1 text-align: center;">¡Bienvenido!</h1>
-	
-<p align="center">Soy <strong>Juliana Castillo Araujo</strong><br>Y actualmente soy <strong>Data Analytics </strong> certificada en <br> Jump! Educacion (Codear Futura: <strong>Data Analytics 📊</strong>) <br>Estudio en Platzi (Escuela: <strong>Data Science 🐍</strong> e Inteligencia Artificial 🤖)<strong>
-	
-<p>Conecta conmigo aquí 👇</strong></p>
+<h1 text-align: center;">¡Bienvenido/a!</h1> 
+
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
