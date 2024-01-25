@@ -4,7 +4,6 @@
    <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" />
 <h1 text-align: center;">¡Bienvenido/a!</h1> 
 
-
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -31,12 +30,7 @@
 
 <!-- Mi Discord -->
 <a href="https://discordapp.com/users/1032143279879364650" target="_blank"> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-	
-<br>
-
-<h2>🌟 Mis Skills 🌟</h2> 
-<strong>Python | R | SQL | Google Colab | Datatype | DAX | EDA | ETL | PowerBI | Storytelling</strong>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"	
 <br>
 	
 <h2 align="center" style="font-size: 21px;">Tech Community Speaker 🎙️<br> </h2> 
