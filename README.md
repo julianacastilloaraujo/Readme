@@ -36,7 +36,7 @@
 <br>
 	
 <h2>Skills 📊</h2> 
-<strong> Communication | Programming | Notion | Slack | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
+<strong> Communication | Design | Programming | Notion | Slack | JavaScript | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Power Query |  Storytelling</strong>
 <br>
 <br>
 <!-- Speaker -->
