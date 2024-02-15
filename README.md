@@ -19,9 +19,6 @@
 <a href="https://platzi.com/p/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"
 
-<!-- Mi Facebook -->
-<a href="https://www.facebook.com/julianacastilloaraujo" target="_blank"> 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 
 <!-- Mi TikTok -->
  <a href="https://www.tiktok.com/@julianacastilloaraujo" target="_blank">
