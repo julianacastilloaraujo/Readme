@@ -9,7 +9,6 @@
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-
 	
 <!-- Mi Twitter -->
 <a href="https://twitter.com/jcastilloaraujo" target="_blank">
@@ -19,6 +18,7 @@
 <a href="https://platzi.com/p/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"
 
+<br>
 
 <!-- Mi TikTok -->
  <a href="https://www.tiktok.com/@julianacastilloaraujo" target="_blank">
