@@ -5,7 +5,7 @@
 <p text-align: center;">Let's build a better future together! #WomenTechmakers</p> 
 <p text-align: center;">For the future of technology, 💪 AI has the potential to solve some of the most pressing challenges we face.</p>
 	
-<p align="center">I'm Juliana Castillo Araujo 👩‍💻 I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
+<p align="center">I'm <strong>Juliana Castillo Araujo</strong> 👩‍💻 I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
 
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
