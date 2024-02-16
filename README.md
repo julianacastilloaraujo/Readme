@@ -24,9 +24,11 @@
  <a href="https://www.tiktok.com/@julianacastilloaraujo" target="_blank">
  <img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" >
 
-<!-- Mi Discord -->
-<a href="https://discordapp.com/users/1032143279879364650" target="_blank"> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"	
+
+<!-- Mi Instagram -->
+<a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+	
 <br>
 	
 <h2>Skills 📊</h2> 
