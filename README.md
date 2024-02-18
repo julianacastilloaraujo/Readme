@@ -1,12 +1,6 @@
 <div align="center">
 <!-- Mi foto -->
 <p align="center" width="300">
-   <img align="center" width="200" src=" />
-<p text-align: center;">Let's build a better future together! #WomenTechmakers</p> 
-<p text-align: center;">For the future of technology, 💪 AI has the potential to solve some of the most pressing challenges we face.</p>
-	
-<p align="center">👩‍💻 I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
-	
 
 <h2>Skills 📊</h2> 
 <strong> Communication | Design | Programming | Notion | Slack | JavaScript | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Power Query |  Storytelling</strong>
