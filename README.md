@@ -4,21 +4,27 @@
    <p align="center">I'm Juliana Castillo 👩‍💻<br> I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
 <div align="center">
 <p>Let's connect to drive equality and innovation in STEM! 🚀 <strong>#WomenInTech</strong></p> 
+
+<!-- Mis redes sociales-->
 <!-- Mi LinkedIn -->
 <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <!-- Mi Twitter -->
-<a href="https://twitter.com/jcastilloaraujo" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-	
+<a href="https://twitter.com/jlianacastillo" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>	
 <!-- Mi perfil en Platzi -->
 <a href="https://platzi.com/p/julianacastilloaraujo/" target="_blank">
-<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white">
+  <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white">
+</a>
+<br>
 <br>
 <p><strong>📊 Skills 📊</strong></p> 
 <strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
+
+	
 
 <!-- Mis participaciones-->
 <div align="center">
