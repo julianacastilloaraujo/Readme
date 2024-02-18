@@ -1,10 +1,11 @@
 <div align="center">
 <!-- Mi foto -->
 <p align="center" width="300">
-
-<h2>Skills 📊</h2> 
+<h1>Skills 📊</h1> 
 <strong> Design | Programming | Notion | Slack | JavaScript | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Power Query |  Storytelling</strong>
 <br>
+<h1>Speaker 🎙️</h1> 
+<strong> Ctrl+Alt+Supr 🇵🇪 | Women Techmakers Mexico 🇲🇽 | Macao Tech 🇭🇳 | Technolatinas 🇲🇽 | Pioneras Developers 🇨🇴</strong>
 <br>
 <!-- Speaker -->
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
