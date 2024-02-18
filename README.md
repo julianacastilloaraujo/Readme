@@ -1,12 +1,14 @@
-<div align="center">
 <!-- Mi foto -->
 <p align="center" width="300">
-<h1>Skills 📊</h1> 
-<strong> Design | Programming | Notion | Slack | JavaScript | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Power Query |  Storytelling</strong>
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" />
+   <p align="center">I'm Juliana Castillo 👩‍💻<br> I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
+<div align="center">
+<p>Let's connect to drive equality and innovation in STEM! 🚀 <strong>#WomenInTech</strong></p> 
+<p><strong>📊 Skills 📊</strong></p> 
+<strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
-<h1>Speaker 🎙️</h1> 
-<strong> Ctrl+Alt+Supr 🇵🇪 | Women Techmakers Mexico 🇲🇽 | Macao Tech 🇭🇳 | Technolatinas 🇲🇽 | Pioneras Developers 🇨🇴</strong>
-<br>
+<!-- Mis participaciones-->
+<div align="center">
 <!-- Speaker -->
 <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
   <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
@@ -23,3 +25,4 @@
 <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
   <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
 </a>
+<br>
