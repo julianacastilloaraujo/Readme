@@ -3,7 +3,7 @@
 <p align="center" width="300">
 
 <h2>Skills 📊</h2> 
-<strong> Communication | Design | Programming | Notion | Slack | JavaScript | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Power Query |  Storytelling</strong>
+<strong> Design | Programming | Notion | Slack | JavaScript | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Power Query |  Storytelling</strong>
 <br>
 <br>
 <!-- Speaker -->
