@@ -6,35 +6,8 @@
 <p text-align: center;">For the future of technology, 💪 AI has the potential to solve some of the most pressing challenges we face.</p>
 	
 <p align="center">👩‍💻 I'm a dynamic speaker, addressing topics like "Data Analytics with Ethical Perspective" at the Honduran MacaoTech meet and exploring communication strategies for women in STEM at Technolatinas' Latinas Code Camp</p>
-
-<!-- Mi LinkedIn -->
-<a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 	
-<!-- Mi Twitter -->
-<a href="https://twitter.com/jcastilloaraujo" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-	
-<!-- Mi perfil en Platzi -->
-<a href="https://platzi.com/p/julianacastilloaraujo/" target="_blank">
-<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"
 
-<br>
-
-<!-- Mi TikTok -->
- <a href="https://www.tiktok.com/@julianacastilloaraujo" target="_blank">
- <img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" >
-
-
-<!-- Mi Instagram -->
-<a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-
- <!-- Mi Facebook -->
-<a href="https://www.facebook.com/julianacastilloaraujo" target="_blank"> 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-<br>
-	
 <h2>Skills 📊</h2> 
 <strong> Communication | Design | Programming | Notion | Slack | JavaScript | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Power Query |  Storytelling</strong>
 <br>
