@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 <!-- Mi Facebook -->
 <a href="https://www.facebook.com/julianacastilloaraujo" target="_blank"> 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <div align="center"> <br>
 <p><strong>📊 Skills 📊</strong></p> 
 <strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
