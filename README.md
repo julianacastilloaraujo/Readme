@@ -1,4 +1,4 @@
-<p><strong>📊 Skills 📊</strong></p> 
+<div align="center"><p><strong>📊 Skills 📊</strong></p> 
 <strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
 <!-- Mis participaciones-->
