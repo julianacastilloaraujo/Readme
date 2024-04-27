@@ -8,7 +8,7 @@
 <!-- Mis redes -->
 <div align="center">
 <!-- Mi LinkedIn -->
-<a href="https://www.linkedin.com/in/jlianacastillo/" target="_blank">
+<a href=https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 <!-- Mi perfil en Platzi -->
 <a href="https://platzi.com/p/julianacastilloaraujo/"target="_blank">
