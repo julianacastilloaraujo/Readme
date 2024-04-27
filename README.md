@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 <!-- Mi Facebook -->
-<a href="https://www.facebook.com/jliannacastillo/" target="_blank"> 
+<a href="https://web.facebook.com/julianacastilloaraujo" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 <!-- Mi Discord -->
 <a href="https://discordapp.com/users/1032143279879364650" target="_blank"> 
