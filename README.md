@@ -14,7 +14,7 @@
 <a href="https://platzi.com/p/jlianacastillo/"target="_blank">
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"
 <!-- Mi Twitter -->
-<a href="https://twitter.com/jlianacastillo" target="_blank">
+<a href="https://twitter.com/jcastilloaraujo" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 <!-- Mi Instagram -->
 <a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
