@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 <br>
 <div align="center">
-<h2>Skills 📊</h2> 
 <div align="center"> <br>
 <strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
 <br>
