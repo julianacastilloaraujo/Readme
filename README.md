@@ -1,4 +1,3 @@
-<!-- Mis redes -->
 <div align="center">
 <!-- Mi LinkedIn -->
 <a href=https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
