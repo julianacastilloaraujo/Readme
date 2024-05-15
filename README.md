@@ -1,23 +1,3 @@
-<div align="center">
-<!-- Mi LinkedIn -->
-<a href=https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-<!-- Mi perfil en Platzi -->
-<a href="https://platzi.com/p/julianacastilloaraujo/"target="_blank">
-<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"
-<!-- Mi Twitter -->
-<a href="https://twitter.com/jcastilloaraujo" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-<!-- Mi Instagram -->
-<a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-<!-- Mi Facebook -->
-<a href="https://web.facebook.com/julianacastilloaraujo" target="_blank"> 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-<br>
-<div align="center"> <br>
-<strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
-<br>
 <!-- Mis participaciones-->
 <div align="center">
 <!-- Speaker -->
