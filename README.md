@@ -4,7 +4,6 @@
 
 <div align="center">
    <p>
-      
    </p>
    
 ---
@@ -40,7 +39,6 @@
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
    </p>
 </div>
-
 </div>
 
 ---
@@ -79,7 +77,6 @@
 
 <div align="center">
    <h2>Social Media 🛜</h2>
-
 <div align="center">
    <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
