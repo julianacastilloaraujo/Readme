@@ -4,7 +4,7 @@
 
 <div align="center">
    <p>
-      Hi there 👋🏻 Welcome to my GitHub profile
+      
    </p>
    
 ---
