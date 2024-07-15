@@ -18,7 +18,6 @@
 </div>
 
 ---
-
 <div align="center">
    <h2>Skills 📊</h2>
    <p>
@@ -28,7 +27,16 @@
       <img src="https://img.shields.io/badge/Generative_AI-663399?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI">
       <img src="https://img.shields.io/badge/Data_Analysis-1D3557?style=for-the-badge&logo=data-analysis&logoColor=white" alt="Data Analysis">
       <img src="https://img.shields.io/badge/Deep_Learning-764ABC?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+      <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=etl&logoColor=white" alt="ETL">
+      <img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=eda&logoColor=white" alt="EDA">
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
    </p>
+</div>
+
 </div>
 
 ---
