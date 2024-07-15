@@ -20,8 +20,6 @@
 <a href="https://www.facebook.com/julianacastilloaraujo/" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 <br>
-<div align="center">
-<strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
 <!-- Mis participaciones-->
 <div align="center">
 <!-- Speaker -->
