@@ -1,6 +1,7 @@
 <div align="center">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" alt="Juliana Castillo Araujo">
 </div>
+<p align="center">🌟 Platzi '24 Associate | 🤖 AI/ML @DevFestBogotá '23 | 👩‍💻 Google WTMBogota '22 | 🌍 IEEE R9 Leader '21 | 💻 GitHub Dev | 👩‍🏫 AI/ML Teacher @BDGInstitute | Connecting ideas & people!</p>
 
 ---
 
