@@ -20,6 +20,7 @@
 <!-- Mi Facebook -->
 <a href="https://www.facebook.com/julianacastilloaraujo/" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+<br>
 <div align="center">
 <h2>Skills 📊</h2> 
 <div align="center"> <br>
