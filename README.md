@@ -1,27 +1,6 @@
 <div align="center">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" alt="Juliana Castillo Araujo">
 </div>
-<p align="center">🌟 Platzi '24 Associate | 🤖 AI/ML @DevFestBogotá '23 | 👩‍💻 Google WTMBogota '22 | 🌍 IEEE R9 Leader '21 | 💻 GitHub Dev | 👩‍🏫 AI/ML Teacher @BDGInstitute | Connecting ideas & people!</p>
-
----
-
-<div align="center">
-   <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-   </a>
-   <a href="https://platzi.com/p/julianacastilloaraujo/" target="_blank">
-      <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi">
-   </a>
-   <a href="https://twitter.com/jcastilloaraujo" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-   </a>
-   <a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-   </a>
-   <a href="https://www.facebook.com/julianacastilloaraujo/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-   </a>
-</div>
 
 ---
 
@@ -83,4 +62,25 @@
    <a href="https://www.youtube.com/watch?v=EuFVGH1Uipo" target="_blank">
       <img align="center" width="11%" height="15%" src="https://user-images.githubusercontent.com/96964513/263141815-e8873464-aacd-41b4-81d2-dd40dbfebd4e.jpeg" alt="PionerasDev">
    </a>
+
+---
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
+   <a href="https://platzi.com/p/julianacastilloaraujo/" target="_blank">
+      <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi">
+   </a>
+   <a href="https://twitter.com/jcastilloaraujo" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+   </a>
+   <a href="https://www.instagram.com/julianacastilloaraujo/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+   </a>
+   <a href="https://www.facebook.com/julianacastilloaraujo/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+   </a>
+</div>
+
 </div>
