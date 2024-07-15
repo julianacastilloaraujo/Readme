@@ -22,9 +22,7 @@
 <br>
 <div align="center">
 <h2>Skills 📊</h2> 
-<div align="center"> <br>
 <strong> Ethical Data | R | Python | SQL | Google Colab | Datatype | Datamining | EDA | ETL | PowerBI | Storytelling</strong>
-<br>
 <!-- Mis participaciones-->
 <div align="center">
 <!-- Speaker -->
