@@ -2,6 +2,9 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/96964513/269688265-447fec81-f043-413c-9716-784bdd166e7c.jpg" />
 <div align="center">
+
+---
+
 <!-- Mis redes -->
 <div align="center">
 <!-- Mi LinkedIn -->
@@ -20,6 +23,9 @@
 <a href="https://www.facebook.com/julianacastilloaraujo/" target="_blank"> 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 <br>
+
+---
+
 <!-- Mis participaciones-->
 <div align="center">
 <!-- Speaker -->
