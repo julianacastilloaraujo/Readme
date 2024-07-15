@@ -18,7 +18,6 @@
       🗣️ <strong>Ask Me About</strong>: LLM, Generative AI, Machine Learning, Deep Learning<br>
       📫 <strong>Contact Me</strong>: <a href="mailto:jcastilloa@ucundinamarca.edu.co">jcastilloa@ucundinamarca.edu.co</a><br>
       😊 <strong>Pronouns</strong>: She/Her<br>
-      📚 <strong>Interests</strong>: Personalized product recommendations, chatbot development for online stores
    </p>
 </div>
 
