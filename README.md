@@ -3,7 +3,14 @@
 </div>
 
 <div align="center">
-   <h2>About Me</h2>
+   <p>
+      Hi there 👋🏻 Welcome to my GitHub profile
+   </p>
+   
+---
+<div align="center">
+   <h2>About Me 👩‍💻</h2>
+   <p>
    <p>
       🔭 <strong>Currently Working At</strong>: <a href="https://platzi.com">Platzi</a> & <a href="https://bdginstitute.com">BDG Institute</a><br>
       👩‍🏫 <strong>Role</strong>: AI and Machine Learning Teacher<br>
@@ -40,7 +47,7 @@
 ---
 
 <div align="center">
-   <h2>Certifications</h2>
+   <h2>Certifications 📜</h2>
    <p>
       📜 <strong>ChatGPT Certification</strong> by OpenAI<br>
       📜 <strong>Data Science Professional Certificate</strong> by IBM<br>
@@ -52,7 +59,7 @@
 ---
 
 <div align="center">
-   <h2>Participation</h2>
+   <h2>Participation 🎙️</h2>
    <a href="https://open.spotify.com/episode/2ARYfoQPDV1TqTLolFn04U" target="_blank">
       <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263137950-3ab81cee-8cde-45d9-b64b-3b7765f3334c.png" alt="EP 02 - Juliana Castillo">
    </a>
@@ -70,6 +77,9 @@
    </a>
 
 ---
+
+<div align="center">
+   <h2>Social Media 🛜</h2>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/julianacastilloaraujo/" target="_blank">
